@@ -1,0 +1,106 @@
+tag,n,category
+instrumental,87,"classical, instrumental & electronic"
+classical,48,"classical, instrumental & electronic"
+experimental,48,"classical, instrumental & electronic"
+piano,44,"classical, instrumental & electronic"
+ambient,43,"classical, instrumental & electronic"
+electronic,36,"classical, instrumental & electronic"
+classic,24,"classical, instrumental & electronic"
+contemporary_classical,21,"classical, instrumental & electronic"
+atmospheric,17,"classical, instrumental & electronic"
+chillout,16,"classical, instrumental & electronic"
+modern_classical,16,"classical, instrumental & electronic"
+neoclassical,14,"classical, instrumental & electronic"
+electronica,13,"classical, instrumental & electronic"
+neo_classical,12,"classical, instrumental & electronic"
+soul,23,funk & soul
+funk,14,funk & soul
+hardcore,186,hardcore & metalcore
+metalcore,124,hardcore & metalcore
+post_hardcore,69,hardcore & metalcore
+straight_edge,62,hardcore & metalcore
+melodic_hardcore,61,hardcore & metalcore
+screamo,39,hardcore & metalcore
+emo,36,hardcore & metalcore
+melodic_metalcore,34,hardcore & metalcore
+christian_metalcore,27,hardcore & metalcore
+deathcore,21,hardcore & metalcore
+moshcore,21,hardcore & metalcore
+straight_edge_hardcore,21,hardcore & metalcore
+christian_hardcore,18,hardcore & metalcore
+oldschool_hardcore,16,hardcore & metalcore
+beatdown,15,hardcore & metalcore
+emocore,14,hardcore & metalcore
+beatdown_hardcore,13,hardcore & metalcore
+nyhc,13,hardcore & metalcore
+grindcore,11,hardcore & metalcore
+positive_hardcore,10,hardcore & metalcore
+hip_hop,24,hip-hop & rnb
+rnb,13,hip-hop & rnb
+rap,11,hip-hop & rnb
+jazz,33,jazz & blues
+blues,20,jazz & blues
+blues_rock,11,jazz & blues
+metal,168,metal
+heavy_metal,50,metal
+death_metal,44,metal
+nu_metal,32,metal
+melodic_death_metal,31,metal
+thrash_metal,26,metal
+alternative_metal,24,metal
+progressive_metal,18,metal
+christian_metal,16,metal
+black_metal,14,metal
+post_metal,12,metal
+shoegaze,12,metal
+sludge,12,metal
+groove_metal,10,metal
+thrash,10,metal
+pop,54,pop
+punk,108,punk
+hardcore_punk,83,punk
+punk_rock,70,punk
+pop_punk,48,punk
+ska,11,punk
+ska_punk,10,punk
+rock,216,rock
+alternative,133,rock
+alternative_rock,76,rock
+indie,74,rock
+hard_rock,58,rock
+post_rock,51,rock
+classic_rock,48,rock
+acoustic,27,rock
+indie_rock,27,rock
+christian_rock,24,rock
+progressive_rock,18,rock
+folk_rock,12,rock
+pop_rock,11,rock
+grunge,10,rock
+american,169,other
+christian,80,other
+british,54,other
+singer_songwriter,46,other
+folk,37,other
+composer,35,other
+female_vocalists,31,other
+composers,29,other
+80s,28,other
+70s,26,other
+german,26,other
+canadian,19,other
+male_vocalists,19,other
+oldies,19,other
+90s,16,other
+60s,15,other
+french,15,other
+italian,15,other
+progressive,15,other
+romantic,14,other
+soundtrack,14,other
+swedish,14,other
+political,13,other
+worship,13,other
+australian,11,other
+baroque,11,other
+usa,10,other
